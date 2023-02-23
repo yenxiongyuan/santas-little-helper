@@ -61,4 +61,4 @@ PORT, DATABASE_URL, SECRET
 
 #### UML
 
-![Santa's Little Helper UML](./assets/)
+![Santa's Little Helper UML](./assets/challenge-9.png)
